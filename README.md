@@ -92,6 +92,7 @@ plt.show()
 ```
 
 ## Output:
+```
    satisfaction_level  last_evaluation  number_project  ...  promotion_last_5years  Departments   salary
 0                0.38             0.53               2  ...                      0         sales     low
 1                0.80             0.86               5  ...                      0         sales  medium
@@ -142,7 +143,7 @@ Name: count, dtype: int64
 
 [5 rows x 10 columns]
 Accuracy: 0.9853333333333333
-
+```
 ![ml](https://github.com/user-attachments/assets/845cebc8-6a01-45c7-ad25-dc6e164271f7)
 
 
